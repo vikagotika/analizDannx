@@ -1,0 +1,41 @@
+/* (..- выйти из папки, /- переход на папку ) */
+@font-face {
+  font-family: "PT Root UI";
+  src: url("../fonts2.0/pt-root-ui_bold.woff") format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "PT Root UI";
+  src: url("../fonts2.0/pt-root-ui_medium.woff") format("woff");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "PT Root UI";
+  src: url("../fonts2.0/pt-root-ui_light.woff") format("woff");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "PT Root UI";
+  src: url("../fonts2.0/pt-root-ui_regular.woff") format("woff");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts2.0/OpenSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts2.0/OpenSans-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts2.0/OpenSans-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts2.0/OpenSans-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+}
